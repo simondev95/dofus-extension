@@ -1,3 +1,20 @@
+// ==UserScript==
+// @name     Anonyme Script 365493
+// @version  1
+// @match    <all_urls>
+// @grant    none
+// ==/UserScript==
+// ==UserScript==
+// @name         createStuff
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Créer vos équipements sur Dofus DB
+// @author       Simon-dev95
+// @match        https://beta.dofusdb.fr/*
+// @grant        none
+// ==/UserScript==
+
+
 (function() {
     'use strict';
 
